@@ -1,0 +1,9 @@
+Welcome to our Sigma web development course! I'd be happy to help you with your questions.
+
+You asked about "Semantic Tags" in HTML. This topic is covered in Video 11 of our course, which starts at timestamp 26 seconds and goes until around 43 seconds. In this video, we explain what Semantic Tags are and their benefits.
+
+However, it seems like you also have a question about where to find more information on this topic. To give you a better understanding of how Semantic Tags work and when to use them, I'd recommend watching Video 11 in its entirety, starting from the beginning at timestamp 26 seconds.
+
+In particular, pay attention to around 59 seconds into the video, where we discuss the importance of Semantic Tags for browsers and web crawlers. We also explore some examples of how to use Semantic Tags in HTML, including a navbar example.
+
+If you have any more questions or need further clarification on this topic, feel free to ask!

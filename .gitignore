@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# data folders
+videos/
+audios/
+jsons/
+merged_jsons/
+
+# large / generated files
+*.mp4
+*.mkv
+*.avi
+*.mp3
+*.wav
+*.joblib
